@@ -1,5 +1,4 @@
 # Movie-Analysis-and-Recommendation-System
-Exploratory data analysis (EDA), data visualization, and applying Machine Learning, and Natural Language Processing(NLP) for movie recommendations system.
 
 ## Overview
 This project explores the **IMDB Movie Dataset** with data cleaning, exploratory analysis, and visualizations. It also includes a **content-based movie recommendation system** using **Natural Language Processing (NLP)** with TF-IDF and cosine similarity.
